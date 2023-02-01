@@ -10,7 +10,10 @@
 ![](https://komarev.com/ghpvc/?username=berkanktk&color=red)
 -->
 
-
+<!--
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
+-->
+
+<img src="/github-metrics.svg" alt="Metrics">
