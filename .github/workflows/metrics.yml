@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@master
+      - uses: stalomeow/metrics@projects-v2 # lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
